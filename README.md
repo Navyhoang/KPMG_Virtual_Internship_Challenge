@@ -50,6 +50,6 @@
   ![alt text](https://github.com/Navyhoang/KPMG_Virtual_Internship_Challenge/blob/main/Results/CustomersDemographicsDashboard.PNG "Customer Demographics")
   ![alt text](https://github.com/Navyhoang/KPMG_Virtual_Internship_Challenge/blob/main/Results/PuchasesAnalysisDashboard.PNG "Purchases Analysis")
   
-**1. MODULE 2:** (In-progress)
+**2. MODULE 2:** (In-progress)
 
 
