@@ -44,12 +44,15 @@
 
 **Data Source:** Dataset was provided by KPMN's client, Sprocket Central Pty Ltd. (Provided in the Resources folder of this repo)
 
-Datasets:  
+**Datasets:**
+
      * Customer Demographic
+
      * Customer Addresses
+     
      * Transactions data in the past 3 months
 
-- The datasets are related to each other by the customer_id column as shown in the diagram below:
+The datasets are related to each other by the customer_id column as shown in the diagram below:
   ![alt text](https://github.com/Navyhoang/KPMG_Virtual_Internship_Challenge/blob/main/Results/QuickDBD-Free%20Diagram.png "DBD")
 
 
@@ -58,7 +61,7 @@ Datasets:
 
 **1. MODULE 1:** (Complete)
 - A list of recommendations for Data Treatment is provided in the Documentation folder as well as the Module 1 notebook in the Results folder. 
-- 2 dashboards were created using Power BI. The file is also included in the Results folder and it can be published for sharing when a liecense is purchases. Snapshots of the dhasboard are shown below:
+- 2 dashboards were created using Power BI. The file is also included in the Results folder and it can be published for sharing. Snapshots of the dashboards are shown below:
 
   ![alt text](https://github.com/Navyhoang/KPMG_Virtual_Internship_Challenge/blob/main/Results/CustomersDemographicsDashboard.PNG "Customer Demographics")
   ![alt text](https://github.com/Navyhoang/KPMG_Virtual_Internship_Challenge/blob/main/Results/PuchasesAnalysisDashboard.PNG "Purchases Analysis")
