@@ -6,6 +6,7 @@
 1. Data Quality Assessment: Perform EDA using Python and build visualization dashboards using Power BI. Tasks to be performed in this module include:
       
       * Check data quality:
+      * 
             * Check data accuracy: if values are close to true values.
             * Check data completeness: fill nan values with values that make sense. Drop rows if neccessary.
             * Check data consistency: check if values contradict to normally observed trends.
