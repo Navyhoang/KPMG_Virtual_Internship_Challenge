@@ -1,0 +1,70 @@
+Australian Bureau of Statistics
+
+"2016 Census - Employment, Income and Education"
+"Table 1"
+"MTW15P Method of Travel to Work (15 travel modes) by INDP - 1 Digit Level by OCCP - 1 Digit Level"
+"Counting: Persons Place of Usual Residence"
+
+Filters:
+"Default Summation","Persons Place of Usual Residence"
+
+" Bicycle"
+"OCCP - 1 Digit Level","Managers","Professionals","Technicians and Trades Workers","Community and Personal Service Workers","Clerical and Administrative Workers","Sales Workers","Machinery Operators and Drivers","Labourers","Inadequately described","Not stated","Not applicable","Total",
+"INDP - 1 Digit Level",
+"Professional, Scientific and Technical Services",1885,10122,984,33,904,106,26,119,122,10,0,14304,
+"Education and Training",973,9441,545,1188,746,34,26,309,44,6,0,13317,
+"Public Administration and Safety",2389,4687,890,2025,2192,23,324,341,308,9,0,13187,
+"Accommodation and Food Services",877,120,1789,3000,189,604,149,2073,37,12,0,8855,
+"Retail Trade",1036,463,545,70,285,3270,405,1143,35,9,0,7253,
+"Manufacturing",782,1001,1666,112,265,190,709,1063,53,13,0,5860,
+"Financial and Insurance Services",980,2402,69,12,1013,138,13,11,50,8,0,4686,
+"Transport, Postal and Warehousing",424,549,233,107,730,99,1283,239,25,4,0,3697,
+"Construction",527,464,1041,11,239,46,254,538,28,7,0,3153,
+"Other Services",302,568,1035,471,223,63,42,353,12,4,0,3071,
+"Inadequately described",454,667,481,108,231,139,294,437,192,37,0,3046,
+"Information Media and Telecommunications",524,1669,305,15,228,117,15,67,18,3,0,2964,
+"Arts and Recreation Services",448,861,328,643,173,76,25,210,21,4,0,2785,
+"Administrative and Support Services",350,468,170,259,194,60,67,945,23,3,0,2549,
+"Wholesale Trade",327,415,179,10,211,281,394,183,19,0,0,2023,
+"Mining",370,872,228,5,135,6,142,27,19,0,0,1806,
+"Electricity, Gas, Water and Waste Services",303,659,310,4,194,21,122,62,15,0,0,1684,
+"Rental, Hiring and Real Estate Services",179,244,57,21,136,142,22,76,12,0,0,878,
+"Agriculture, Forestry and Fishing",242,92,56,5,33,29,40,267,14,0,0,770,
+"Not stated",14,119,63,61,20,37,29,69,63,288,0,761,
+"Not applicable",0,0,0,0,0,0,0,0,0,0,0,0,
+"Total",13382,35890,10963,8143,8339,5475,4372,8535,1111,422,0,96633,
+
+
+" Total"
+"OCCP - 1 Digit Level","Managers","Professionals","Technicians and Trades Workers","Community and Personal Service Workers","Clerical and Administrative Workers","Sales Workers","Machinery Operators and Drivers","Labourers","Inadequately described","Not stated","Not applicable","Total",
+"INDP - 1 Digit Level",
+"Professional, Scientific and Technical Services",1885,10122,984,33,904,106,26,119,122,10,0,14304,
+"Education and Training",973,9441,545,1188,746,34,26,309,44,6,0,13317,
+"Public Administration and Safety",2389,4687,890,2025,2192,23,324,341,308,9,0,13187,
+"Accommodation and Food Services",877,120,1789,3000,189,604,149,2073,37,12,0,8855,
+"Retail Trade",1036,463,545,70,285,3270,405,1143,35,9,0,7253,
+"Manufacturing",782,1001,1666,112,265,190,709,1063,53,13,0,5860,
+"Financial and Insurance Services",980,2402,69,12,1013,138,13,11,50,8,0,4686,
+"Transport, Postal and Warehousing",424,549,233,107,730,99,1283,239,25,4,0,3697,
+"Construction",527,464,1041,11,239,46,254,538,28,7,0,3153,
+"Other Services",302,568,1035,471,223,63,42,353,12,4,0,3071,
+"Inadequately described",454,667,481,108,231,139,294,437,192,37,0,3046,
+"Information Media and Telecommunications",524,1669,305,15,228,117,15,67,18,3,0,2964,
+"Arts and Recreation Services",448,861,328,643,173,76,25,210,21,4,0,2785,
+"Administrative and Support Services",350,468,170,259,194,60,67,945,23,3,0,2549,
+"Wholesale Trade",327,415,179,10,211,281,394,183,19,0,0,2023,
+"Mining",370,872,228,5,135,6,142,27,19,0,0,1806,
+"Electricity, Gas, Water and Waste Services",303,659,310,4,194,21,122,62,15,0,0,1684,
+"Rental, Hiring and Real Estate Services",179,244,57,21,136,142,22,76,12,0,0,878,
+"Agriculture, Forestry and Fishing",242,92,56,5,33,29,40,267,14,0,0,770,
+"Not stated",14,119,63,61,20,37,29,69,63,288,0,761,
+"Not applicable",0,0,0,0,0,0,0,0,0,0,0,0,
+"Total",13382,35890,10963,8143,8339,5475,4372,8535,1111,422,0,96633,
+
+"Data Source: Census of Population and Housing, 2016, TableBuilder"
+
+"INFO","Cells in this table have been randomly adjusted to avoid the release of confidential data. No reliance should be placed on small cells."
+
+
+"Copyright Commonwealth of Australia, 2018, see abs.gov.au/copyright"
+"ABS data licensed under Creative Commons, see abs.gov.au/ccby"
