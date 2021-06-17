@@ -1,4 +1,5 @@
 customer_id,new_address,postcode,state,property_valuation,transaction_id,product_id
+object,object,int64,object,int64,object,object
 2950,60 Morning Avenue,2016,New South Wales,10,1,2
 3120,6 Meadow Vale Court,2153,New South Wales,10,2,3
 402, Holy Cross Court,4211,QLD,9,3,37
